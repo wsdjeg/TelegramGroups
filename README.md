@@ -9,6 +9,7 @@
 - [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ)
 - [pony](https://t.me/joinchat/EazwPxYdRVxCamcSBG_Mtg)
 - [Python](https://t.me/joinchat/EazwPw-6pE9jj6V4dQnVsA)
+- [Rust](https://t.me/joinchat/EazwPxTyfsBUQssiAVJN9Q)
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 
 ## 开发工具
