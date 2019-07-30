@@ -2,6 +2,7 @@
 
 ## 编程语言
 
+- [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Elixir](https://t.me/elixircn)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
 - [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg)
