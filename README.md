@@ -23,6 +23,7 @@
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 - [Kotlin](https://t.me/joinchat/EazwPxevphBevqj14rNl-w)
+- [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
 
 ## 开发工具
 
