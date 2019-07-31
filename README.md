@@ -14,6 +14,7 @@
 - [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg)
 - [LiveScript](https://t.me/joinchat/EazwPxQNQ7D7u6po7d1z9w)
 - [Java](https://t.me/joinchat/EazwPxdwgArMZi1S-rlavA)
+- [julia](https://t.me/joinchat/EazwPw_DyObgvlef3B0l-w)
 - [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ)
 - [PHP](https://t.me/joinchat/EazwPxSldbLfK0WpWHSqiA)
 - [pony](https://t.me/joinchat/EazwPxYdRVxCamcSBG_Mtg)
