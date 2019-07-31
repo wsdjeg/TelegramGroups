@@ -4,6 +4,7 @@
 
 - [C](https://t.me/joinchat/EazwPxat_Jc17Mks1B4B9Q)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
+- [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Elixir](https://t.me/elixircn)
 - [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
