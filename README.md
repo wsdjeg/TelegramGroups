@@ -2,6 +2,7 @@
 
 ## 编程语言
 
+- [C](https://t.me/joinchat/EazwPxat_Jc17Mks1B4B9Q)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Elixir](https://t.me/elixircn)
