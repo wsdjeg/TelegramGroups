@@ -19,6 +19,7 @@
 - [Python](https://t.me/joinchat/EazwPw-6pE9jj6V4dQnVsA)
 - [Rust](https://t.me/joinchat/EazwPxTyfsBUQssiAVJN9Q)
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
+- [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 
 ## 开发工具
 
