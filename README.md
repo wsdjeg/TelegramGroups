@@ -7,6 +7,7 @@
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
 - [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg)
+- [LiveScript](https://t.me/joinchat/EazwPxQNQ7D7u6po7d1z9w)
 - [Java](https://t.me/joinchat/EazwPxdwgArMZi1S-rlavA)
 - [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ)
 - [pony](https://t.me/joinchat/EazwPxYdRVxCamcSBG_Mtg)
