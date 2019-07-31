@@ -4,6 +4,7 @@
 
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Elixir](https://t.me/elixircn)
+- [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
 - [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg)
