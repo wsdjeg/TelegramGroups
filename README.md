@@ -1,6 +1,6 @@
-# Telegram 组群列表
+### Telegram 组群列表
 
-## 编程语言
+#### 编程语言
 
 - [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
 - [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A)
@@ -26,10 +26,10 @@
 - [Kotlin](https://t.me/joinchat/EazwPxevphBevqj14rNl-w)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
 
-## 开发工具
+#### 开发工具
 
 - [Vim](https://t.me/joinchat/EazwP0N3KINBeWdGcFACNw)
 
-## 其他
+#### 其他
 
 - [qutebrowser](https://t.me/joinchat/EazwPxTx27TwDD-q5plMsQ)
