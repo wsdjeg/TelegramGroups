@@ -9,6 +9,7 @@
 - [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Elixir](https://t.me/elixircn)
+- [Haskell](https://t.me/joinchat/EazwPw9N4rVq-IVfTik9kA)
 - [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
