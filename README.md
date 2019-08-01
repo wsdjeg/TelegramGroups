@@ -29,3 +29,7 @@
 ## 开发工具
 
 - [Vim](https://t.me/joinchat/EazwP0N3KINBeWdGcFACNw)
+
+## 其他
+
+- [qutebrowser](https://t.me/joinchat/EazwPxTx27TwDD-q5plMsQ)
