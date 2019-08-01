@@ -2,6 +2,7 @@
 
 ## 编程语言
 
+- [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
 - [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A)
 - [C](https://t.me/joinchat/EazwPxat_Jc17Mks1B4B9Q)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
