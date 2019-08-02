@@ -28,6 +28,7 @@
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 - [Kotlin](https://t.me/joinchat/EazwPxevphBevqj14rNl-w)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
+- [R](https://t.me/joinchat/EazwPxMxLainsmFhw9vNHQ)
 
 #### 开发工具
 
