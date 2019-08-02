@@ -6,6 +6,7 @@
 - [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A)
 - [C](https://t.me/joinchat/EazwPxat_Jc17Mks1B4B9Q)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
+- [C#](https://t.me/joinchat/EazwPxbLuD1vifLCimcn2g)
 - [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Elixir](https://t.me/elixircn)
