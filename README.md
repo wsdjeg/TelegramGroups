@@ -17,7 +17,7 @@
 - [Kotlin](https://t.me/joinchat/EazwPxevphBevqj14rNl-w)
 - [LiveScript](https://t.me/joinchat/EazwPxQNQ7D7u6po7d1z9w)
 - [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg)
-- [Lisp](https://t.me/joinchat/EazwPxWtSvlBL_OfKOhv4g)
+- [Racket](https://t.me/joinchat/EazwPxWtSvlBL_OfKOhv4g)
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 - [PHP](https://t.me/joinchat/EazwPxSldbLfK0WpWHSqiA)
 - [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ)
