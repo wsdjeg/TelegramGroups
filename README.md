@@ -10,6 +10,7 @@
 - [Elixir](https://t.me/elixircn)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
+- [Goby](https://t.me/joinchat/EazwPxXLyfNwnwlMyaMNKQ)
 - [Haskell](https://t.me/joinchat/EazwPw9N4rVq-IVfTik9kA)
 - [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
 - [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A)
