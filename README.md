@@ -7,6 +7,7 @@
 - [C](https://t.me/joinchat/EazwPxat_Jc17Mks1B4B9Q)
 - [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
+- [crystal](https://t.me/joinchat/EazwPxYYykC8TOCVv1Acqw)
 - [Elixir](https://t.me/elixircn)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
