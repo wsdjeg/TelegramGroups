@@ -28,6 +28,7 @@
 - [R](https://t.me/joinchat/EazwPxMxLainsmFhw9vNHQ)
 - [Ruby](https://t.me/joinchat/EazwPxcE953p4ZkxJg-qTg)
 - [Rust](https://t.me/joinchat/EazwPxTyfsBcfEhXZB9S-Q)
+- [Scheme](https://t.me/joinchat/EazwPxX86flKkpaX-j6SXg)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
 - [TypeScript](https://t.me/joinchat/EazwPxZIOwc1sZnmiExsUQ)
 - [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
