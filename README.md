@@ -1,5 +1,10 @@
 ### Telegram 组群列表
 
+为了集中管理，避免各种广告、机器人，整理如下组群，以下组群均为非公开组群，
+群里机器人定期清理。可根据语言以及工具自行选择组群，
+其他编程相关日常交流可以使用：[Devs 中文](https://t.me/joinchat/EazwP1Kcv-B5ot1_3MYV7g)
+
+
 #### 编程语言
 
 - [C#](https://t.me/joinchat/EazwPxbLuD1vifLCimcn2g)
