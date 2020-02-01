@@ -40,3 +40,4 @@
 #### 其他
 
 - [qutebrowser](https://t.me/joinchat/EazwPxTx27TwDD-q5plMsQ)
+- [git](https://t.me/joinchat/EazwPxY-6g2Rg3THywbMOQ)
