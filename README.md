@@ -4,6 +4,7 @@
 群里机器人定期清理。可根据语言以及工具自行选择组群，
 其他编程相关日常交流可以使用：[Devs 中文](https://t.me/joinchat/EazwP1Kcv-B5ot1_3MYV7g)
 
+以下部分组群同步着gitter、IRC 等其他聊天工具.
 
 #### 编程语言
 
@@ -21,16 +22,17 @@
 - [Java](https://t.me/joinchat/EazwPxdwgArMZi1S-rlavA)
 - [Kotlin](https://t.me/joinchat/EazwPxevphBevqj14rNl-w)
 - [LiveScript](https://t.me/joinchat/EazwPxQNQ7D7u6po7d1z9w)
-- [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg)
+- [Lua](https://t.me/joinchat/EazwP0YHwMnI6cGGfMErUg): ([gitter](https://gitter.im/SpaceVim/Lua-cn))
 - [Racket](https://t.me/joinchat/EazwPxWtSvlBL_OfKOhv4g)
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 - [PHP](https://t.me/joinchat/EazwPxSldbLfK0WpWHSqiA)
-- [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ)
+- [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ): ([gitter](https://gitter.im/SpaceVim/perl-cn))
 - [Python](https://t.me/joinchat/EazwPw-6pE9jj6V4dQnVsA)
 - [R](https://t.me/joinchat/EazwPxMxLainsmFhw9vNHQ)
 - [Ruby](https://t.me/joinchat/EazwPxcE953p4ZkxJg-qTg)
 - [Rust](https://t.me/joinchat/EazwPxTyfsBUQssiAVJN9Q)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
+- [Scheme](https://t.me/joinchat/EazwPxX86flKkpaX-j6SXg): ([gitter](https://gitter.im/SpaceVim/Scheme-cn))
 - [TypeScript](https://t.me/joinchat/EazwPxZIOwc1sZnmiExsUQ)
 - [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
