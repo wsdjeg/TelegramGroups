@@ -7,11 +7,9 @@
 - [C](https://t.me/joinchat/EazwPxat_Jc17Mks1B4B9Q)
 - [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
-- [crystal](https://t.me/joinchat/EazwPxYYykC8TOCVv1Acqw)
-- [Elixir](https://t.me/joinchat/EazwP03wuypM4VY6A4eaDg)
+- [Elixir](https://t.me/elixircn)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
-- [Goby](https://t.me/joinchat/EazwPxXLyfNwnwlMyaMNKQ)
 - [Haskell](https://t.me/joinchat/EazwPw9N4rVq-IVfTik9kA)
 - [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
 - [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A)
@@ -22,13 +20,11 @@
 - [Racket](https://t.me/joinchat/EazwPxWtSvlBL_OfKOhv4g)
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 - [PHP](https://t.me/joinchat/EazwPxSldbLfK0WpWHSqiA)
-- [Idris](https://t.me/joinchat/EazwPxQoKBsIcGao795SYg)
 - [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ)
 - [Python](https://t.me/joinchat/EazwPw-6pE9jj6V4dQnVsA)
 - [R](https://t.me/joinchat/EazwPxMxLainsmFhw9vNHQ)
 - [Ruby](https://t.me/joinchat/EazwPxcE953p4ZkxJg-qTg)
-- [Rust](https://t.me/joinchat/EazwPxTyfsBcfEhXZB9S-Q)
-- [Scheme](https://t.me/joinchat/EazwPxX86flKkpaX-j6SXg)
+- [Rust](https://t.me/joinchat/EazwPxTyfsBUQssiAVJN9Q)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
 - [TypeScript](https://t.me/joinchat/EazwPxZIOwc1sZnmiExsUQ)
 - [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
@@ -39,7 +35,7 @@
 
 #### 开发工具
 
-- [Vim](https://t.me/joinchat/EazwP0N3KINBeWdGcFACNw)
+- [Vim](https://t.me/joinchat/EazwP0N3KINfUyiZQt-UQg)
 
 #### 其他
 
