@@ -18,7 +18,7 @@
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
 - [Haskell](https://t.me/joinchat/EazwPw9N4rVq-IVfTik9kA)
 - [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
-- [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A)
+- [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A): ([gitter](https://gitter.im/SpaceVim/JavaScript-cn))
 - [Java](https://t.me/joinchat/EazwPxdwgArMZi1S-rlavA)
 - [Kotlin](https://t.me/joinchat/EazwPxevphBevqj14rNl-w)
 - [LiveScript](https://t.me/joinchat/EazwPxQNQ7D7u6po7d1z9w)
