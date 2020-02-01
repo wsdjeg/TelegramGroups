@@ -15,7 +15,7 @@
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
 - [Elixir](https://t.me/elixircn)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
-- [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg)
+- [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg): ([gitter](https://gitter.im/SpaceVim/golang-cn))
 - [Haskell](https://t.me/joinchat/EazwPw9N4rVq-IVfTik9kA)
 - [Hy](https://t.me/joinchat/EazwPxUbRjUp_9u2_O4YjA)
 - [JavaScript](https://t.me/joinchat/EazwPxJt2cZ3nL05k1o51A): ([gitter](https://gitter.im/SpaceVim/JavaScript-cn))
