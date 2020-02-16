@@ -42,7 +42,7 @@
 
 #### 开发工具
 
-- [Vim](https://t.me/joinchat/EazwP0N3KINfUyiZQt-UQg)
+- [Vim](https://t.me/joinchat/EazwP0N3KINfUyiZQt-UQg): ([gitter](https://gitter.im/vim-china/Lobby))
 
 #### 其他
 
