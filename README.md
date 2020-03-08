@@ -1,12 +1,11 @@
-### Telegram 组群列表
+## Telegram 组群列表
 
 为了集中管理，避免各种广告、机器人，整理如下组群，以下组群均为非公开组群，
 群里机器人定期清理。可根据语言以及工具自行选择组群，
-其他编程相关日常交流可以使用：[Devs 中文](https://t.me/joinchat/EazwP1Kcv-B5ot1_3MYV7g)
 
 以下部分组群同步着gitter、IRC 等其他聊天工具.
 
-#### 编程语言
+### 编程语言
 
 - [C#](https://t.me/joinchat/EazwPxbLuD1vifLCimcn2g)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
@@ -39,3 +38,8 @@
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 - [julia](https://t.me/joinchat/EazwPw_DyObgvlef3B0l-w)
 - [pony](https://t.me/joinchat/EazwPxYdRVxCamcSBG_Mtg)
+
+### 常用工具
+
+- [vim](https://t.me/joinchat/EazwP0N3KINfUyiZQt-UQg): ([gitter](https://gitter.im/vim-china/Lobby), IRC: #vim-china)
+- [SpaceVim](https://t.me/SpaceVim_CN): ([gitter](https://gitter.im/SpaceVim/cn), IRC: #spacevim-cn)
