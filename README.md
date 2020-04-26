@@ -32,7 +32,7 @@
 - [Rust](https://t.me/joinchat/EazwP00KcwNptQoSJeWMDA): ([gitter](https://gitter.im/rust-china/community), IRC: #rust-china)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
 - [Scheme](https://t.me/joinchat/EazwPxX86flKkpaX-j6SXg): ([gitter](https://gitter.im/SpaceVim/Scheme-cn))
-- [TypeScript](https://t.me/joinchat/EazwPxZIOwc1sZnmiExsUQ)
+- [TypeScript](https://t.me/joinchat/EazwPxoll2H6vWNS8TM1Bg)
 - [elm](https://t.me/joinchat/EazwPxeoHnV9OLJ1HDjxjQ)
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 - [julia](https://t.me/joinchat/EazwPw_DyObgvlef3B0l-w)
