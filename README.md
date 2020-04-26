@@ -33,7 +33,7 @@
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
 - [Scheme](https://t.me/joinchat/EazwPxX86flKkpaX-j6SXg): ([gitter](https://gitter.im/SpaceVim/Scheme-cn))
 - [TypeScript](https://t.me/joinchat/EazwPxZIOwc1sZnmiExsUQ)
-- [elm](https://t.me/joinchat/EazwP1GIWFPPg1dIQJO3ag)
+- [elm](https://t.me/joinchat/EazwPxeoHnV9OLJ1HDjxjQ)
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 - [julia](https://t.me/joinchat/EazwPw_DyObgvlef3B0l-w)
 - [pony](https://t.me/joinchat/EazwPxYdRVxCamcSBG_Mtg)
