@@ -26,7 +26,7 @@
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 - [PHP](https://t.me/joinchat/EazwPxt-m76BYpJYCYkf-Q)
 - [Perl](https://t.me/joinchat/EazwPxyC0GF2ah8326d9-w): ([gitter](https://gitter.im/SpaceVim/perl-cn))
-- [Python](https://t.me/joinchat/EazwPw-6pE9jj6V4dQnVsA): ([gitter](https://gitter.im/SpaceVim/Python-cn))
+- [Python](https://t.me/joinchat/EazwPxs7z65GrkYGPJFtyA): ([gitter](https://gitter.im/SpaceVim/Python-cn))
 - [R](https://t.me/joinchat/EazwPxMxLainsmFhw9vNHQ)
 - [Ruby](https://t.me/joinchat/EazwPxrim7Lw2ZlLoMdrEg)
 - [Rust](https://t.me/joinchat/EazwPxlQXAG_QRgZ8tpJAg): ([gitter](https://gitter.im/rust-china/community), IRC: #rust-china)
