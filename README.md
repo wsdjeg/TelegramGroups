@@ -7,7 +7,7 @@
 
 ### 编程语言
 
-- [C#](https://t.me/joinchat/EazwPxbLuD1vifLCimcn2g)
+- [C#](https://t.me/joinchat/EazwPxRKe5Mzc6GFKGsPWw)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
 - [C](https://t.me/joinchat/EazwPxOFtl9_dpkQdor1gw)
 - [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
