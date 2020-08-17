@@ -25,7 +25,7 @@
 - [Racket](https://t.me/joinchat/EazwPxWtSvlBL_OfKOhv4g)
 - [Nim](https://t.me/joinchat/EazwPxNNj_nCRlgMSQCNFA)
 - [PHP](https://t.me/joinchat/EazwPxt-m76BYpJYCYkf-Q)
-- [Perl](https://t.me/joinchat/EazwPxdE6ZOzpK5JhT3DrQ): ([gitter](https://gitter.im/SpaceVim/perl-cn))
+- [Perl](https://t.me/joinchat/EazwPxyC0GF2ah8326d9-w): ([gitter](https://gitter.im/SpaceVim/perl-cn))
 - [Python](https://t.me/joinchat/EazwPw-6pE9jj6V4dQnVsA): ([gitter](https://gitter.im/SpaceVim/Python-cn))
 - [R](https://t.me/joinchat/EazwPxMxLainsmFhw9vNHQ)
 - [Ruby](https://t.me/joinchat/EazwPxgMoIj1n5mlmG7gTw)
