@@ -12,7 +12,7 @@
 - [C](https://t.me/joinchat/EazwPxOFtl9_dpkQdor1gw)
 - [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
-- [Elixir](https://t.me/joinchat/EazwPxm3UrdNflibKamQbA)
+- [Elixir](https://t.me/joinchat/EazwPxu4Kv6r-sRkSAjNWA)
 - [F#](https://t.me/joinchat/EazwPxXwge6h5H4Pm4noJQ)
 - [Go](https://t.me/joinchat/EazwPxZ-6SjxeEtr9M9jAg): ([gitter](https://gitter.im/SpaceVim/golang-cn))
 - [Haskell](https://t.me/joinchat/EazwPw9N4rVq-IVfTik9kA)
