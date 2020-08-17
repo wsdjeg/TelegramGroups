@@ -9,7 +9,7 @@
 
 - [C#](https://t.me/joinchat/EazwPxbLuD1vifLCimcn2g)
 - [C++](https://t.me/joinchat/EazwPxOg_O-23GaaqA_Opg)
-- [C](https://t.me/joinchat/EazwPxxfCFnvuV4kGbuT5w)
+- [C](https://t.me/joinchat/EazwPxOFtl9_dpkQdor1gw)
 - [Clojure](https://t.me/joinchat/EazwPxNoCKTJ5rz_BrEtiw)
 - [CoffeeScript](https://t.me/joinchat/EazwPxVvES3qIV15t3vNtg)
 - [Elixir](https://t.me/joinchat/EazwPxm3UrdNflibKamQbA)
