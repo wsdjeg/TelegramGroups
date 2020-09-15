@@ -40,5 +40,4 @@
 
 ### 常用工具
 
-- [vim](https://t.me/joinchat/EazwP0N3KINfUyiZQt-UQg): ([gitter](https://gitter.im/vim-china/Lobby), IRC: #vim-china)
-- [SpaceVim](https://t.me/SpaceVim_CN): ([gitter](https://gitter.im/SpaceVim/cn), IRC: #spacevim-cn)
+- [SpaceVim/Vim 中文交流群](https://t.me/joinchat/EazwP0TNHJ_Btbo2frsw9Q): ([gitter](https://gitter.im/SpaceVim/cn), IRC: #spacevim-cn)
