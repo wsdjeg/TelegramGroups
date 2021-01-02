@@ -37,6 +37,7 @@
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
 - [julia](https://t.me/joinchat/EazwPw_DyObgvlef3B0l-w)
 - [pony](https://t.me/joinchat/EazwPxYdRVxCamcSBG_Mtg)
+- [zig](https://t.me/joinchat/GLZyRJjV5-btP-ko)
 
 ### 常用工具
 
