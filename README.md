@@ -28,7 +28,7 @@
 - [Ruby](https://t.me/joinchat/EazwPxrim7Lw2ZlLoMdrEg)
 - [Rust](https://t.me/joinchat/EazwPxlQXAG_QRgZ8tpJAg): ([gitter](https://gitter.im/rust-china/community), IRC: #rust-china)
 - [Scala](https://t.me/joinchat/EazwPxXDisTT4nzTJAIO6g)
-- [Scheme](https://t.me/joinchat/EazwPxX86flKkpaX-j6SXg): ([gitter](https://gitter.im/SpaceVim/Scheme-cn))
+- [Scheme](https://t.me/joinchat/RBsr0y4vSCCDLgVt): ([gitter](https://gitter.im/SpaceVim/Scheme-cn))
 - [TypeScript](https://t.me/joinchat/RiTYkW9WeJAx0wip)
 - [elm](https://t.me/joinchat/EazwPxeoHnV9OLJ1HDjxjQ)
 - [groovy](https://t.me/joinchat/EazwPxWczVDLjYzjLNc1Hw)
